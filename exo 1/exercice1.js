@@ -1,9 +1,9 @@
+let fruits = prompt("qu'elle est votre nom préféré");
 
-(fruits) {
-    "Banana":
-    alert("Hello")
-    break;
-    "Apple":
-    alert("Welcome")
-    break;
+switch (fruits) {
+    case "Banana":
+        alert("Hello");
+        break;
+    case "Apple":
+        alert("Welcome");
 }
